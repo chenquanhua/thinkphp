@@ -1,0 +1,1 @@
+{"0":"id","1":"title","2":"content","3":"create_time","_autoinc":true,"_pk":"id","_type":{"id":"smallint(4) unsigned","title":"varchar(255)","content":"varchar(255)","create_time":"int(11) unsigned"}}
